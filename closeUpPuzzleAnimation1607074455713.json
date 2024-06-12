@@ -1,0 +1,234 @@
+{
+    "frames": {
+        "frame0000.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        },
+        "frame0001.png": {
+            "frame": {
+                "x": 0,
+                "y": 261,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        },
+        "frame0002.png": {
+            "frame": {
+                "x": 549,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        },
+        "frame0003.png": {
+            "frame": {
+                "x": 549,
+                "y": 261,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        },
+        "frame0004.png": {
+            "frame": {
+                "x": 0,
+                "y": 522,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        },
+        "frame0005.png": {
+            "frame": {
+                "x": 549,
+                "y": 522,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        },
+        "frame0006.png": {
+            "frame": {
+                "x": 0,
+                "y": 783,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        },
+        "frame0007.png": {
+            "frame": {
+                "x": 549,
+                "y": 783,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        },
+        "frame0008.png": {
+            "frame": {
+                "x": 1098,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        },
+        "frame0009.png": {
+            "frame": {
+                "x": 1098,
+                "y": 261,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        },
+        "frame0010.png": {
+            "frame": {
+                "x": 1098,
+                "y": 522,
+                "w": 549,
+                "h": 261
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 549,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 549,
+                "h": 261
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "closeUpPuzzleAnimation1607074455713.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1647,
+            "h": 1044
+        },
+        "scale": 1
+    }
+}

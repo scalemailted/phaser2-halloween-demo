@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "player0WalkFront0000",
+	"frame": {"x":1,"y":126,"w":66,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":33,"w":66,"h":117},
+	"sourceSize": {"w":150,"h":150}
+},
+{
+	"filename": "player0WalkFront0001",
+	"frame": {"x":137,"y":1,"w":66,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":30,"w":66,"h":120},
+	"sourceSize": {"w":150,"h":150}
+},
+{
+	"filename": "player0WalkFront0002",
+	"frame": {"x":1,"y":1,"w":66,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":27,"w":66,"h":123},
+	"sourceSize": {"w":150,"h":150}
+},
+{
+	"filename": "player0WalkFront0003",
+	"frame": {"x":69,"y":126,"w":66,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":33,"w":66,"h":117},
+	"sourceSize": {"w":150,"h":150}
+},
+{
+	"filename": "player0WalkFront0004",
+	"frame": {"x":137,"y":123,"w":66,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":30,"w":66,"h":120},
+	"sourceSize": {"w":150,"h":150}
+},
+{
+	"filename": "player0WalkFront0005",
+	"frame": {"x":69,"y":1,"w":66,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":27,"w":66,"h":123},
+	"sourceSize": {"w":150,"h":150}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "player0WalkFront",
+	"format": "RGBA8888",
+	"size": {"w":204,"h":244},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:89540415bff8a6aaa4856576965be4f6:66bebb8ad40b628d2d8c8172058e0824:96aa2d599f0632b4e20bb889e53b8ee6$"
+}
+}

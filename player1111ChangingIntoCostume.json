@@ -1,0 +1,1574 @@
+{
+    "frames": {
+        "LK_Teenager_Halloween_CHANGING_CLOTHES01.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES02.png": {
+            "frame": {
+                "x": 219,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES03.png": {
+            "frame": {
+                "x": 438,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES04.png": {
+            "frame": {
+                "x": 0,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES05.png": {
+            "frame": {
+                "x": 219,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES06.png": {
+            "frame": {
+                "x": 438,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES07.png": {
+            "frame": {
+                "x": 657,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES08.png": {
+            "frame": {
+                "x": 657,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES09.png": {
+            "frame": {
+                "x": 0,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES10.png": {
+            "frame": {
+                "x": 219,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES11.png": {
+            "frame": {
+                "x": 438,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES12.png": {
+            "frame": {
+                "x": 657,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES13.png": {
+            "frame": {
+                "x": 876,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES14.png": {
+            "frame": {
+                "x": 876,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES15.png": {
+            "frame": {
+                "x": 876,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES16.png": {
+            "frame": {
+                "x": 1095,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES17.png": {
+            "frame": {
+                "x": 1095,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES18.png": {
+            "frame": {
+                "x": 1095,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES19.png": {
+            "frame": {
+                "x": 0,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES20.png": {
+            "frame": {
+                "x": 219,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES21.png": {
+            "frame": {
+                "x": 438,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES22.png": {
+            "frame": {
+                "x": 657,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES23.png": {
+            "frame": {
+                "x": 876,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES24.png": {
+            "frame": {
+                "x": 1095,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES25.png": {
+            "frame": {
+                "x": 1314,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES26.png": {
+            "frame": {
+                "x": 1314,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES27.png": {
+            "frame": {
+                "x": 1314,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES28.png": {
+            "frame": {
+                "x": 1314,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES29.png": {
+            "frame": {
+                "x": 0,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES30.png": {
+            "frame": {
+                "x": 219,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES31.png": {
+            "frame": {
+                "x": 438,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES32.png": {
+            "frame": {
+                "x": 657,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES33.png": {
+            "frame": {
+                "x": 876,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES34.png": {
+            "frame": {
+                "x": 1095,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES35.png": {
+            "frame": {
+                "x": 1314,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES36.png": {
+            "frame": {
+                "x": 1533,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES37.png": {
+            "frame": {
+                "x": 1533,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES38.png": {
+            "frame": {
+                "x": 1533,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES39.png": {
+            "frame": {
+                "x": 1533,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES40.png": {
+            "frame": {
+                "x": 1533,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES41.png": {
+            "frame": {
+                "x": 0,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES42.png": {
+            "frame": {
+                "x": 219,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES43.png": {
+            "frame": {
+                "x": 438,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES44.png": {
+            "frame": {
+                "x": 657,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES45.png": {
+            "frame": {
+                "x": 876,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES46.png": {
+            "frame": {
+                "x": 1095,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES47.png": {
+            "frame": {
+                "x": 1314,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES48.png": {
+            "frame": {
+                "x": 1533,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES49.png": {
+            "frame": {
+                "x": 1752,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES50.png": {
+            "frame": {
+                "x": 1752,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES51.png": {
+            "frame": {
+                "x": 1752,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES52.png": {
+            "frame": {
+                "x": 1752,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES53.png": {
+            "frame": {
+                "x": 1752,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES54.png": {
+            "frame": {
+                "x": 1752,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES55.png": {
+            "frame": {
+                "x": 0,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES56.png": {
+            "frame": {
+                "x": 219,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES57.png": {
+            "frame": {
+                "x": 438,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES58.png": {
+            "frame": {
+                "x": 657,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES59.png": {
+            "frame": {
+                "x": 876,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES60.png": {
+            "frame": {
+                "x": 1095,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES61.png": {
+            "frame": {
+                "x": 1314,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES62.png": {
+            "frame": {
+                "x": 1533,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES63.png": {
+            "frame": {
+                "x": 1752,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES64.png": {
+            "frame": {
+                "x": 1971,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES65.png": {
+            "frame": {
+                "x": 1971,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES66.png": {
+            "frame": {
+                "x": 1971,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES67.png": {
+            "frame": {
+                "x": 1971,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES68.png": {
+            "frame": {
+                "x": 1971,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES69.png": {
+            "frame": {
+                "x": 1971,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES70.png": {
+            "frame": {
+                "x": 1971,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES71.png": {
+            "frame": {
+                "x": 2190,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES72.png": {
+            "frame": {
+                "x": 2190,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES73.png": {
+            "frame": {
+                "x": 2190,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES74.png": {
+            "frame": {
+                "x": 2190,
+                "y": 822,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES75.png": {
+            "frame": {
+                "x": 2190,
+                "y": 1096,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES76.png": {
+            "frame": {
+                "x": 2190,
+                "y": 1370,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES77.png": {
+            "frame": {
+                "x": 2190,
+                "y": 1644,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_CHANGING_CLOTHES78.png": {
+            "frame": {
+                "x": 0,
+                "y": 1918,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "player1111ChangingIntoCostume.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2409,
+            "h": 2192
+        },
+        "scale": 1
+    }
+}

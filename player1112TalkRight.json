@@ -1,0 +1,134 @@
+{
+    "frames": {
+        "LK_Teenager_Halloween_TALK_RIGHT01.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_TALK_RIGHT02.png": {
+            "frame": {
+                "x": 219,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_TALK_RIGHT03.png": {
+            "frame": {
+                "x": 438,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_TALK_RIGHT04.png": {
+            "frame": {
+                "x": 0,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_TALK_RIGHT05.png": {
+            "frame": {
+                "x": 219,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_TALK_RIGHT06.png": {
+            "frame": {
+                "x": 438,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "player1112TalkRight.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 657,
+            "h": 548
+        },
+        "scale": 1
+    }
+}

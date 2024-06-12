@@ -1,0 +1,34 @@
+{
+    "frames": {
+        "tv1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 155,
+                "h": 108
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 155,
+                "h": 108
+            },
+            "sourceSize": {
+                "w": 155,
+                "h": 108
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "../../assets/images/targetZoneAnimations/targetZone798749ReferenceImage.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 155,
+            "h": 108
+        },
+        "scale": 1
+    }
+}

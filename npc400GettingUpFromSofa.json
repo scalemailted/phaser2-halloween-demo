@@ -1,0 +1,214 @@
+{
+    "frames": {
+        "LK_Mom_Character_UP_SOFA01.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_UP_SOFA02.png": {
+            "frame": {
+                "x": 224,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_UP_SOFA03.png": {
+            "frame": {
+                "x": 0,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_UP_SOFA04.png": {
+            "frame": {
+                "x": 224,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_UP_SOFA05.png": {
+            "frame": {
+                "x": 448,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_UP_SOFA06.png": {
+            "frame": {
+                "x": 448,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_UP_SOFA07.png": {
+            "frame": {
+                "x": 0,
+                "y": 448,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_UP_SOFA08.png": {
+            "frame": {
+                "x": 224,
+                "y": 448,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_UP_SOFA09.png": {
+            "frame": {
+                "x": 448,
+                "y": 448,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_UP_SOFA10.png": {
+            "frame": {
+                "x": 672,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "../../assets/images/characterAnimations/npc400GettingUpFromSofa.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 896,
+            "h": 672
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "frames": {
+        "LK_Teenager_Halloween_WALKING_FRONT1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_WALKING_FRONT2.png": {
+            "frame": {
+                "x": 219,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_WALKING_FRONT3.png": {
+            "frame": {
+                "x": 438,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_WALKING_FRONT4.png": {
+            "frame": {
+                "x": 0,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_WALKING_FRONT5.png": {
+            "frame": {
+                "x": 219,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_WALKING_FRONT6.png": {
+            "frame": {
+                "x": 438,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "player1112WalkFront.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 657,
+            "h": 548
+        },
+        "scale": 1
+    }
+}

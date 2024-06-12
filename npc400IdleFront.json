@@ -1,0 +1,814 @@
+{
+    "frames": {
+        "LK_Mom_Character_IDLE_SOFA01.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA02.png": {
+            "frame": {
+                "x": 224,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA03.png": {
+            "frame": {
+                "x": 0,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA04.png": {
+            "frame": {
+                "x": 224,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA05.png": {
+            "frame": {
+                "x": 448,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA06.png": {
+            "frame": {
+                "x": 448,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA07.png": {
+            "frame": {
+                "x": 0,
+                "y": 448,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA08.png": {
+            "frame": {
+                "x": 224,
+                "y": 448,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA09.png": {
+            "frame": {
+                "x": 448,
+                "y": 448,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA10.png": {
+            "frame": {
+                "x": 672,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA11.png": {
+            "frame": {
+                "x": 672,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA12.png": {
+            "frame": {
+                "x": 672,
+                "y": 448,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA13.png": {
+            "frame": {
+                "x": 0,
+                "y": 672,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA14.png": {
+            "frame": {
+                "x": 224,
+                "y": 672,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA15.png": {
+            "frame": {
+                "x": 448,
+                "y": 672,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA16.png": {
+            "frame": {
+                "x": 672,
+                "y": 672,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA17.png": {
+            "frame": {
+                "x": 896,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA18.png": {
+            "frame": {
+                "x": 896,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA19.png": {
+            "frame": {
+                "x": 896,
+                "y": 448,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA20.png": {
+            "frame": {
+                "x": 896,
+                "y": 672,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA21.png": {
+            "frame": {
+                "x": 0,
+                "y": 896,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA22.png": {
+            "frame": {
+                "x": 224,
+                "y": 896,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA23.png": {
+            "frame": {
+                "x": 448,
+                "y": 896,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA24.png": {
+            "frame": {
+                "x": 672,
+                "y": 896,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA25.png": {
+            "frame": {
+                "x": 896,
+                "y": 896,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA26.png": {
+            "frame": {
+                "x": 1120,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA27.png": {
+            "frame": {
+                "x": 1120,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA28.png": {
+            "frame": {
+                "x": 1120,
+                "y": 448,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA29.png": {
+            "frame": {
+                "x": 1120,
+                "y": 672,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA30.png": {
+            "frame": {
+                "x": 1120,
+                "y": 896,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA31.png": {
+            "frame": {
+                "x": 0,
+                "y": 1120,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA32.png": {
+            "frame": {
+                "x": 224,
+                "y": 1120,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA33.png": {
+            "frame": {
+                "x": 448,
+                "y": 1120,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA34.png": {
+            "frame": {
+                "x": 672,
+                "y": 1120,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA35.png": {
+            "frame": {
+                "x": 896,
+                "y": 1120,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA36.png": {
+            "frame": {
+                "x": 1120,
+                "y": 1120,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA37.png": {
+            "frame": {
+                "x": 1344,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA38.png": {
+            "frame": {
+                "x": 1344,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA39.png": {
+            "frame": {
+                "x": 1344,
+                "y": 448,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_IDLE_SOFA40.png": {
+            "frame": {
+                "x": 1344,
+                "y": 672,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "../../assets/images/characterAnimations/npc400Idle.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1568,
+            "h": 1344
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "frames": {
+        "tv1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 155,
+                "h": 108
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 155,
+                "h": 108
+            },
+            "sourceSize": {
+                "w": 155,
+                "h": 108
+            }
+        },
+        "tv2.png": {
+            "frame": {
+                "x": 155,
+                "y": 0,
+                "w": 155,
+                "h": 108
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 155,
+                "h": 108
+            },
+            "sourceSize": {
+                "w": 155,
+                "h": 108
+            }
+        },
+        "tv3.png": {
+            "frame": {
+                "x": 0,
+                "y": 108,
+                "w": 155,
+                "h": 108
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 155,
+                "h": 108
+            },
+            "sourceSize": {
+                "w": 155,
+                "h": 108
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "../../assets/images/targetZoneAnimations/targetZone798749Default.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 310,
+            "h": 216
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "frames": {
+        "LK_Teenager_Halloween_REACH_RIGHT01.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT02.png": {
+            "frame": {
+                "x": 219,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT03.png": {
+            "frame": {
+                "x": 438,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT04.png": {
+            "frame": {
+                "x": 0,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT05.png": {
+            "frame": {
+                "x": 219,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT06.png": {
+            "frame": {
+                "x": 438,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT07.png": {
+            "frame": {
+                "x": 657,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT08.png": {
+            "frame": {
+                "x": 657,
+                "y": 274,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT09.png": {
+            "frame": {
+                "x": 0,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT10.png": {
+            "frame": {
+                "x": 219,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT11.png": {
+            "frame": {
+                "x": 438,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        },
+        "LK_Teenager_Halloween_REACH_RIGHT12.png": {
+            "frame": {
+                "x": 657,
+                "y": 548,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "player1112CollectReachRight.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 876,
+            "h": 822
+        },
+        "scale": 1
+    }
+}

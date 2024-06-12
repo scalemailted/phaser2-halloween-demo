@@ -1,0 +1,20 @@
+{"frames": {
+
+"player0FocusFront0000":
+{
+	"frame": {"x":1,"y":1,"w":66,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":33,"w":66,"h":117},
+	"sourceSize": {"w":150,"h":150}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "player0FocusFront.png",
+	"format": "RGBA8888",
+	"size": {"w":68,"h":119},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:012fff4cb28ed5017a16acb160d79688:1404884d33e992b1cba3ba9967d131f5:a3d17939fa54c3fb08f586774605e178$"
+}
+}

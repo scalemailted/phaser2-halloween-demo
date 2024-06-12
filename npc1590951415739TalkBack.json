@@ -1,0 +1,134 @@
+{
+    "frames": {
+        "LK_Mom_Character_SOBBING1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_SOBBING2.png": {
+            "frame": {
+                "x": 224,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_SOBBING3.png": {
+            "frame": {
+                "x": 0,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_SOBBING4.png": {
+            "frame": {
+                "x": 224,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_SOBBING5.png": {
+            "frame": {
+                "x": 448,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_SOBBING6.png": {
+            "frame": {
+                "x": 448,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "../../assets/images/characterAnimations/npc1590951415739Talk.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 672,
+            "h": 448
+        },
+        "scale": 1
+    }
+}

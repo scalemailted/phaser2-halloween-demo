@@ -1,0 +1,134 @@
+{
+    "frames": {
+        "LK_Mom_Character_RUNNING1_left.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_RUNNING2_left.png": {
+            "frame": {
+                "x": 224,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_RUNNING3_left.png": {
+            "frame": {
+                "x": 0,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_RUNNING4_left.png": {
+            "frame": {
+                "x": 224,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_RUNNING5_left.png": {
+            "frame": {
+                "x": 448,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        },
+        "LK_Mom_Character_RUNNING6_left.png": {
+            "frame": {
+                "x": 448,
+                "y": 224,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "../../assets/images/characterAnimations/npc1590951415739RunLeft.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 672,
+            "h": 448
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "frames": {
+        "LK_Teenager_Halloween_IDLE_FRONT01.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 274
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "player1112FocusFront.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 219,
+            "h": 274
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "frames": {
+        "player1FocusFront.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 100,
+                "h": 208
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 100,
+                "h": 208
+            },
+            "sourceSize": {
+                "w": 100,
+                "h": 208
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "../../assets/images/characterAnimations/player1ReferenceImage.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 100,
+            "h": 208
+        },
+        "scale": 1
+    }
+}
