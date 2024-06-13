@@ -39,7 +39,6 @@ var BasicGame = {
 			
 			this.scale.refresh();
 
-
             this.state.start('InitialPreloader');
 
         }

@@ -14,7 +14,7 @@ body.grey {
     filter: grayscale(100%);
 }
 		
-		
+	
 canvas {
     image-rendering: optimizeSpeed;
     -webkit-interpolation-mode: nearest-neighbor;
@@ -24,6 +24,7 @@ canvas {
     position: relative;
     z-index: 100;
 }
+
 
 :-webkit-full-screen #canvas {
         width: 100%;
