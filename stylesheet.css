@@ -2,13 +2,6 @@
 
 
 
-.adsbygoogle
-{
-	position: absolute;
-	z-index: 200;
-}
-
-
 
 body {
     margin: 0px;
@@ -78,6 +71,7 @@ body.grey
 
 
 /* Change orientation notice START */
+
 #changeOrientation{position: fixed;top: 0px;left: 0px;right: 0px;bottom: 0px;background-color: #000000;z-index: 30000;text-align: center;line-height: 110%; display: none;}
 #changeOrientationContent{display: table; width: 100%; height: 100%;}
 #changeOrientationContentInner{ display: table-cell;vertical-align: middle;}
@@ -109,3 +103,5 @@ and (orientation : portrait) {
 	#changeOrientation {display: block;}
 }
 /* Show a 'change orientation screen' for people who have their device as porttrait END */
+
+
