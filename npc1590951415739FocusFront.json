@@ -1,0 +1,34 @@
+{
+    "frames": {
+        "LK_Mom_Character_SOBBING1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 224,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 224,
+                "h": 224
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "../../assets/images/characterAnimations/npc1590951415739Focus.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 224,
+            "h": 224
+        },
+        "scale": 1
+    }
+}
